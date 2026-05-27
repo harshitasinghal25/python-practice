@@ -63,3 +63,21 @@ Savings rate remains consistent over time
 
 # Tools Used
 Python, Pandas, Matplotlib, NumPy, Seaborn
+
+# 4. Credit Card Fraud Detection
+
+A machine learning project that detects fraudulent credit card transactions using a **Random Forest Classifier**. The project includes **data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation** to classify transactions as fraudulent or legitimate.
+
+# Tools
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+
+# Features
+Data Cleaning  
+Data Visualization  
+Fraud Detection  
+Model Evaluation  
