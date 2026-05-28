@@ -64,18 +64,15 @@ Savings rate remains consistent over time
 # Tools Used
 Python, Pandas, Matplotlib, NumPy, Seaborn
 
-# 4. Credit Card Fraud Detection
-
-A machine learning project that detects fraudulent credit card transactions using a **Random Forest Classifier**. The project includes **data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation** to classify transactions as fraudulent or legitimate.
-
-# Tools
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-
+# Credit Card Fraud Detection
+Detected fraudulent credit card transactions 
+using real banking data with 284,807 transactions.
+- Analyzed class imbalance (99.8% normal, 0.2% fraud).
+- Visualized transaction amounts using boxplot and histogram.
+- Discovered fraudsters prefer small amounts to avoid detection.
+- Built Random Forest model (10 decision trees).
+- Achieved 99.94% accuracy with 72% fraud recall rate.
+- Tools: Python, Pandas, Sklearn, Matplotlib, Seaborn.
 # Features
 Data Cleaning  
 Data Visualization  
